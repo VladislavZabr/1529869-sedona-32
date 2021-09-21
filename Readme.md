@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vladislav Zabrodin](https://up.htmlacademy.ru/htmlcss/32/user/1529869).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Линькова] (https://htmlacademy.ru/profile/id1015999)
 
 ---
 
