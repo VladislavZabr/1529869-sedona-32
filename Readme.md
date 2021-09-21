@@ -3,6 +3,7 @@
 * Студент: [Vladislav Zabrodin](https://up.htmlacademy.ru/htmlcss/32/user/1529869).
 * Наставник: [Анна Линькова] (https://htmlacademy.ru/profile/id1015999)
 
+---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
